@@ -11,6 +11,7 @@ Striver's A2Z DSA Course is a structured learning path designed to take you from
 - Recursion
 - Hashing
 - Important Sorting Techniques
+- Array Problems (Easy, Medium, Hard)
 - And much more...
 
 **Course Link:** [Striver's A2Z DSA Course Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
@@ -44,12 +45,21 @@ Strivers A2Z DSA Course/
 │   ├── basic_hashing.java
 │   ├── hashing_using_hashmap.java
 │   └── maximum_possible_frequency.java
-└── 05-learn-important-sorting-techniques/
-    ├── bubble_sort.java
-    ├── insertion_sort.java
-    ├── merge_sort.java
-    ├── quick_sort.java
-    └── selection_sort.java
+├── 05-learn-important-sorting-techniques/
+│   ├── bubble_sort.java
+│   ├── insertion_sort.java
+│   ├── merge_sort.java
+│   ├── quick_sort.java
+│   └── selection_sort.java
+└── 06-array-problems/
+    ├── easy/
+    │   ├── 01_largest_element_in_an_array.java
+    │   ├── 02_second_largest_element_in_an_array.java
+    │   ├── 03_check_if_array_is_sorted.java
+    │   ├── 04_remove_duplicates_from_sorted_array.java
+    │   └── 05_rotate_array_right_k_steps.java
+    ├── medium/
+    └── hard/
 ```
 
 ## 📊 Progress Tracker
@@ -61,6 +71,10 @@ Strivers A2Z DSA Course/
 - [x] **03. Learn Basic Recursion** (8/8)
 - [x] **04. Learn Basic Hashing** (3/3)
 - [x] **05. Learn Important Sorting Techniques** (5/5)
+- [ ] **06. Array Problems**
+  - [x] Easy (6/14)
+  - [ ] Medium (0/14)
+  - [ ] Hard (0/12)
 
 ### 🚧 In Progress
 
