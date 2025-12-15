@@ -42,7 +42,7 @@ Strivers A2Z DSA Course/
 - [x] **05. Learn Important Sorting Techniques** (5/5)
 - [ ] **06. Array Problems**
   - [x] Level-1 (14/14)
-  - [ ] Level-2 (6/14)
+  - [ ] Level-2 (9/14)
   - [ ] Level-3 (0/12)
 
 ### 🚧 In Progress
